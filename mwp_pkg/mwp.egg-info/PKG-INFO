@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: mwp
+Version: 1.1
+Summary: Magic White Powder package
+Home-page: https://github.com/AnnaVelDA/Reboot20
+Author: Anna Velikobratova
+Author-email: borislavanc@gmail.com
+License: Apache
+Description: Magic White Powder package
+Keywords: reboot20,magic white powder project,pandas learning
+Platform: any
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9

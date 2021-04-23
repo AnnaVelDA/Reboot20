@@ -1,0 +1,9 @@
+README.md
+setup.py
+mwp/__init__.py
+mwp/mwp.py
+mwp.egg-info/PKG-INFO
+mwp.egg-info/SOURCES.txt
+mwp.egg-info/dependency_links.txt
+mwp.egg-info/requires.txt
+mwp.egg-info/top_level.txt
